@@ -171,6 +171,7 @@ Analyze journal text for cognitive distortions
 ---
 
 ## 📸 Screenshots
+<img width="1907" height="866" alt="Screenshot 2026-02-21 092304" src="https://github.com/user-attachments/assets/1fd1e82b-d937-45e3-96a8-c2903fbe2a20" />
 <img width="1877" height="864" alt="Screenshot 2026-02-21 091054" src="https://github.com/user-attachments/assets/307c16de-dffe-4cbc-a261-9c4d0754203a" />
 <img width="1887" height="882" alt="Screenshot 2026-02-21 091152" src="https://github.com/user-attachments/assets/d0f4936a-a66e-419a-ab1b-964d168acc71" />
 <img width="1887" height="880" alt="Screenshot 2026-02-21 091336" src="https://github.com/user-attachments/assets/4b5946f4-7101-4057-be63-937b61ed3baa" />
